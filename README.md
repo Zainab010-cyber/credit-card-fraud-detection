@@ -27,12 +27,19 @@ This project applies machine learning techniques to detect fraudulent credit car
 - ROC-AUC
 
 ## Project Outputs
-- Confusion matrix
-- ROC curve
-- Precision-recall curve
-- Feature importance
-- SHAP analysis
-- Error analysis
+- Fraud vs Non-Fraud Class Distribution
+- SMOTE Comparison Analysis
+- Model Performance Comparison
+- Confusion Matrix
+- ROC Curve
+- Precision-Recall Curve
+- Feature Importance Analysis
+- SHAP Explainability Analysis
+- Error Analysis
+- Threshold Optimisation Analysis
+- Cross-Validation Results
+- Runtime Comparison
+- Live Fraud and Non-Fraud Transaction Prediction Demo
 
 ## How to Run
 1. Open the notebook in Google Colab.
