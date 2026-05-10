@@ -1,4 +1,4 @@
-# credit-card-fraud-detection
+# Credit-card-fraud-detection
 # Explainable Machine Learning for Credit Card Fraud Detection
 
 ## Project Overview
